@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CatFax/static/css/main.2bec3e74.chunk.css",
+    "main.js": "/CatFax/static/js/main.9cf6f72e.chunk.js",
+    "main.js.map": "/CatFax/static/js/main.9cf6f72e.chunk.js.map",
+    "runtime-main.js": "/CatFax/static/js/runtime-main.fc79ab6e.js",
+    "runtime-main.js.map": "/CatFax/static/js/runtime-main.fc79ab6e.js.map",
+    "static/js/2.ccba9d62.chunk.js": "/CatFax/static/js/2.ccba9d62.chunk.js",
+    "static/js/2.ccba9d62.chunk.js.map": "/CatFax/static/js/2.ccba9d62.chunk.js.map",
+    "static/js/3.efca4ad1.chunk.js": "/CatFax/static/js/3.efca4ad1.chunk.js",
+    "static/js/3.efca4ad1.chunk.js.map": "/CatFax/static/js/3.efca4ad1.chunk.js.map",
+    "index.html": "/CatFax/index.html",
+    "static/css/main.2bec3e74.chunk.css.map": "/CatFax/static/css/main.2bec3e74.chunk.css.map",
+    "static/js/2.ccba9d62.chunk.js.LICENSE.txt": "/CatFax/static/js/2.ccba9d62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc79ab6e.js",
+    "static/js/2.ccba9d62.chunk.js",
+    "static/css/main.2bec3e74.chunk.css",
+    "static/js/main.9cf6f72e.chunk.js"
+  ]
+}
